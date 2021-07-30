@@ -22,10 +22,10 @@
 
 
 
-## 第五步：點擊右鍵 已管理員身分運行
-![image](https://github.com/qoo7972365/change_DNS/blob/main/img/info.jpg)
+## 第五步：點擊 更多訊息
+![image](https://github.com/qoo7972365/change_DNS/blob/main/img/info1.jpg)
 
 
 
-## 第六步：點擊右鍵 已管理員身分運行
+## 第六步：點擊 仍要運行
 ![image](https://github.com/qoo7972365/change_DNS/blob/main/img/info2.jpg)
