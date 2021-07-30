@@ -1,5 +1,4 @@
-netsh interface ip set dns name="ÒÔÌ«Íø" source=static addr=114.114.114.114 register=PRIMARY
-netsh interface ip add dns name="ÒÔÌ«Íø" addr=114.114.114.115 index=2
-netsh interface ip set dns name="±¾µØÁ¬½Ó" source=static addr=114.114.114.114 register=PRIMARY
-netsh interface ip add dns name="±¾µØÁ¬½Ó" addr=114.114.114.115 index=2
-
+netsh interface ip set dns name="ä»¥å¤ªç½‘" source=static addr=114.114.114.114 register=PRIMARY
+netsh interface ip add dns name="ä»¥å¤ªç½‘" addr=114.114.114.115 index=2
+netsh interface ip set dns name="æœ¬åœ°è¿æ¥" source=static addr=114.114.114.114 register=PRIMARY
+netsh interface ip add dns name="æœ¬åœ°è¿æ¥" addr=114.114.114.115 index=2
