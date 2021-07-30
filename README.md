@@ -8,4 +8,8 @@
 
 
 #第二步：點擊Download 下載檔案
-![image](https://user-images.githubusercontent.com/32336596/download.png)
+![image](https://github.com/qoo7972365/change_DNS/blob/main/img/download.jpg)
+
+
+#第二步：點擊Download 下載檔案
+![image](https://github.com/qoo7972365/change_DNS/blob/main/img/download.jpg)
