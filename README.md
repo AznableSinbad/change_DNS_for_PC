@@ -11,5 +11,10 @@
 ![image](https://github.com/qoo7972365/change_DNS/blob/main/img/download.jpg)
 
 
-#第二步：點擊Download 下載檔案
+#第三步：點擊 保留
+![image](https://github.com/qoo7972365/change_DNS/blob/main/img/download2.jpg)
+
+
+
+#第三步：點擊 保留
 ![image](https://github.com/qoo7972365/change_DNS/blob/main/img/download.jpg)
